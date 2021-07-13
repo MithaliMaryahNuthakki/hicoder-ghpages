@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/hicoder-ghpages/static/css/main.1ce5cee3.chunk.css",
+    "main.js": "/hicoder-ghpages/static/js/main.52c49cff.chunk.js",
+    "main.js.map": "/hicoder-ghpages/static/js/main.52c49cff.chunk.js.map",
+    "runtime-main.js": "/hicoder-ghpages/static/js/runtime-main.f9ec8db1.js",
+    "runtime-main.js.map": "/hicoder-ghpages/static/js/runtime-main.f9ec8db1.js.map",
+    "static/css/2.081f420c.chunk.css": "/hicoder-ghpages/static/css/2.081f420c.chunk.css",
+    "static/js/2.8f4dec64.chunk.js": "/hicoder-ghpages/static/js/2.8f4dec64.chunk.js",
+    "static/js/2.8f4dec64.chunk.js.map": "/hicoder-ghpages/static/js/2.8f4dec64.chunk.js.map",
+    "index.html": "/hicoder-ghpages/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/hicoder-ghpages/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.1ce5cee3.chunk.css.map": "/hicoder-ghpages/static/css/main.1ce5cee3.chunk.css.map",
+    "static/js/2.8f4dec64.chunk.js.LICENSE.txt": "/hicoder-ghpages/static/js/2.8f4dec64.chunk.js.LICENSE.txt",
+    "static/media/bigcard1.a22b1057.jpg": "/hicoder-ghpages/static/media/bigcard1.a22b1057.jpg",
+    "static/media/bigcard2.47c37d7c.jpg": "/hicoder-ghpages/static/media/bigcard2.47c37d7c.jpg",
+    "static/media/bigcard3.2647f5ab.jpg": "/hicoder-ghpages/static/media/bigcard3.2647f5ab.jpg",
+    "static/media/card3.d7eb76ba.png": "/hicoder-ghpages/static/media/card3.d7eb76ba.png",
+    "static/media/curl3.ef1d408b.png": "/hicoder-ghpages/static/media/curl3.ef1d408b.png",
+    "static/media/curl4.4a2bea03.png": "/hicoder-ghpages/static/media/curl4.4a2bea03.png",
+    "static/media/ficon2.783871b2.png": "/hicoder-ghpages/static/media/ficon2.783871b2.png",
+    "static/media/jumbotron.2cb6ff31.jpg": "/hicoder-ghpages/static/media/jumbotron.2cb6ff31.jpg",
+    "static/media/logo.884296bf.png": "/hicoder-ghpages/static/media/logo.884296bf.png",
+    "static/media/logo.bebae81c.png": "/hicoder-ghpages/static/media/logo.bebae81c.png",
+    "static/media/picture1.4657df0a.jpg": "/hicoder-ghpages/static/media/picture1.4657df0a.jpg",
+    "static/media/picture2.953f463e.jpg": "/hicoder-ghpages/static/media/picture2.953f463e.jpg",
+    "static/media/picture3.e2305520.jpg": "/hicoder-ghpages/static/media/picture3.e2305520.jpg",
+    "static/media/picture4.3a400892.jpg": "/hicoder-ghpages/static/media/picture4.3a400892.jpg",
+    "static/media/picture5.0750d74a.jpg": "/hicoder-ghpages/static/media/picture5.0750d74a.jpg",
+    "static/media/tes1.00627901.jpg": "/hicoder-ghpages/static/media/tes1.00627901.jpg",
+    "static/media/tes2.7c3c76e5.jpg": "/hicoder-ghpages/static/media/tes2.7c3c76e5.jpg",
+    "static/media/tes3.ec18c4db.jpg": "/hicoder-ghpages/static/media/tes3.ec18c4db.jpg",
+    "static/media/twitter.7151d4f0.png": "/hicoder-ghpages/static/media/twitter.7151d4f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ec8db1.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.8f4dec64.chunk.js",
+    "static/css/main.1ce5cee3.chunk.css",
+    "static/js/main.52c49cff.chunk.js"
+  ]
+}
